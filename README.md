@@ -15,7 +15,7 @@
 
 ## 个人成长
 - [少有人走的路：心智成熟的旅程 [The Road Less Traveld]](https://item.jd.com/12992224.html#crumb-wrap)
- - 心灵鸡汤
+  - 心灵鸡汤
 
 ## 家庭生活
 
