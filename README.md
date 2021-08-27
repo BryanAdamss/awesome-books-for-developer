@@ -1,7 +1,9 @@
 # awesome-books-for-developer
-收集了一些大佬推荐的适合开发者阅读的书籍
+
+收集了一些大佬推荐的适合开发者阅读的书籍，参照生命之花划分。[![生命之花](./public/life-flower.jpg)](https://help.dida365.com/tasks/a/6782225676779913216/%E5%A6%82%E4%BD%95%E7%94%A8%E6%BB%B4%E7%AD%94%E6%B8%85%E5%8D%95%E8%BF%9B%E8%A1%8C%E7%94%9F%E6%B6%AF%E8%A7%84%E5%88%92%EF%BC%9F)
 
 ## 职业发展
+
 - [《金字塔原理：思考、表达和解决问题的逻辑》](https://item.jd.com/12591738.html)
   - 逻辑思维训练
 - [《金字塔原理：实战篇》](https://item.jd.com/12629218.html)
@@ -10,10 +12,17 @@
   - 职场提效
 - [《软技能代码之外的生存指南》](https://item.jd.com/11987446.html)
   - 代码之外应该掌握的软技能
-- [《软技能2:软件开发者职业生涯指南》](https://item.jd.com/12858102.html)
-  - 软技能1的续作
+- [《软技能 2:软件开发者职业生涯指南》](https://item.jd.com/12858102.html)
+  - 软技能 1 的续作
+- [《大象：Thinking in UML》](https://item.jd.com/10971142.html)
+  - UML书籍
+- [《火球-UML大战需求分析》](https://item.jd.com/12990922.html)
+  - UML+需求分析
+- [《敏捷软件开发：原则、模式与实践》](https://item.jd.com/10078483.html#crumb-wrap)
+  - 敏捷开发+SOLID原则
 
 ## 个人成长
+
 - [少有人走的路：心智成熟的旅程 [The Road Less Traveld]](https://item.jd.com/12992224.html#crumb-wrap)
   - 心灵鸡汤
 
@@ -28,4 +37,3 @@
 ## 财务状况
 
 ## 自我实现
-
