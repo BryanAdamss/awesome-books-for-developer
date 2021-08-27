@@ -1,6 +1,7 @@
 # awesome-books-for-developer
 
-收集了一些大佬推荐的适合开发者阅读的书籍，参照生命之花划分。[![生命之花](./public/life-flower.jpg)](https://help.dida365.com/tasks/a/6782225676779913216/%E5%A6%82%E4%BD%95%E7%94%A8%E6%BB%B4%E7%AD%94%E6%B8%85%E5%8D%95%E8%BF%9B%E8%A1%8C%E7%94%9F%E6%B6%AF%E8%A7%84%E5%88%92%EF%BC%9F)
+收集了一些大佬推荐的适合开发者阅读的书籍。Some books suitable for developers.
+[![生命之花](./public/life-flower.jpg)](https://help.dida365.com/tasks/a/6782225676779913216/%E5%A6%82%E4%BD%95%E7%94%A8%E6%BB%B4%E7%AD%94%E6%B8%85%E5%8D%95%E8%BF%9B%E8%A1%8C%E7%94%9F%E6%B6%AF%E8%A7%84%E5%88%92%EF%BC%9F)
 
 ## 职业发展
 
