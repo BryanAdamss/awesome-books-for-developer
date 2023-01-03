@@ -24,6 +24,8 @@
   - 算法、数据结构入门
 - [《算法(第4版)》](https://item.jd.com/11098789.html)、[《算法导论》](https://item.jd.com/11144230.html)
   - 算法经典书籍
+- [《MySQL是怎样运行的 从根儿上理解MySQL》](https://item.jd.com/13009316.html)
+  - MySQL入门，深入浅出
 
 ### 产品设计、研发管理
 - [《俞军产品方法论》](https://item.jd.com/63204481632.html)
