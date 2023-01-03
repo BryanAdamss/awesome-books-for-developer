@@ -1,6 +1,6 @@
 # awesome-books-for-developer
 
-收集了一些大佬推荐的适合开发者阅读的书籍。Some books suitable for developers.
+收集了一些适合开发者阅读的书籍。Some books suitable for developers.
 [![生命之花](./public/life-flower.jpg)](https://help.dida365.com/tasks/a/6782225676779913216/%E5%A6%82%E4%BD%95%E7%94%A8%E6%BB%B4%E7%AD%94%E6%B8%85%E5%8D%95%E8%BF%9B%E8%A1%8C%E7%94%9F%E6%B6%AF%E8%A7%84%E5%88%92%EF%BC%9F)
 
 [头图是什么？](https://www.jianshu.com/p/847e11cf28c4)
@@ -26,6 +26,12 @@
   - 算法经典书籍
 - [《MySQL是怎样运行的 从根儿上理解MySQL》](https://item.jd.com/13009316.html)
   - MySQL入门，深入浅出
+- [《架构整洁之道》](https://item.jd.com/12447192.html)
+  - 架构方法论
+- [《凤凰架构：构建可靠的大型分布式系统》](https://item.jd.com/12880681.html)
+  - 架构实践
+- [《深入浅出vuejs》](https://item.jd.com/10025673797903.html)、[《Vue.js设计与实现》](https://item.jd.com/13611922.html)
+  - vue2、vue3原理，深入浅出
 
 ### 产品设计、研发管理
 - [《俞军产品方法论》](https://item.jd.com/63204481632.html)
@@ -34,6 +40,8 @@
   - 该书从技术管理者的分析视角提供了“技术人如何做管理” 的方法论，并给出了可操作应用的管理框架图。适合技术人员，各类管理者，以及管理顾问使用
 - [《产品研发管理：构建世界一流的产品研发管理体系》](https://item.jd.com/12829172.html)
   - 华为研发管理体系经验
+- [《人月神话》](https://item.jd.com/12401749.html)
+  - 软件工程管理与实践
 
 ### 设计
 - [《破茧成蝶》](https://item.jd.com/12930454.html)
