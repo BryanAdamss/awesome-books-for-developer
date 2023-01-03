@@ -30,7 +30,7 @@
   - 架构方法论
 - [《深入浅出vuejs》](https://item.jd.com/10025673797903.html)、[《Vue.js设计与实现》](https://item.jd.com/13611922.html)
   - vue2、vue3原理，深入浅出
-- [《精通CSS 高级Web标准解决方案》](https://item.jd.com/12550434.html)、[CSS揭秘](https://item.jd.com/13305034.html)
+- [《精通CSS 高级Web标准解决方案》](https://item.jd.com/12550434.html)、[《CSS揭秘》](https://item.jd.com/13305034.html)
   - css经典书籍
 
 ### 产品设计、研发管理
@@ -50,12 +50,8 @@
   - 腾讯的用户体验设计之道
 - [《设计中的设计》](https://item.jd.com/12209749.html)
   - 作者原研哉，「想写本一般人也能阅读的书」
-- [《UI 理论系列：视觉设计原则》](./books/UI理论系列：视觉设计原则_V0.1.pdf)
-  - UI 理论系列：视觉设计原则
-- [《UX 理论系列：交互设计原则》](./books/UX理论系列：交互设计原则_V0.1.pdf)
-  - UX 理论系列：交互设计原则
-- [《UX 理论系列：体验系列原则》](./books/UX理论系列：体验系列原则_V0.1.pdf)
-  - UX 理论系列：体验系列原则
+- [《UI 理论系列：视觉设计原则》](./books/UI理论系列：视觉设计原则_V0.1.pdf)、[《UX 理论系列：交互设计原则》](./books/UX理论系列：交互设计原则_V0.1.pdf)、[《UX 理论系列：体验系列原则》](./books/UX理论系列：体验系列原则_V0.1.pdf)
+  - UI 理论系列
 
 ## 个人成长
 
