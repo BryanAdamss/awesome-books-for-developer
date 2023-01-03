@@ -30,6 +30,8 @@
   - 架构方法论
 - [《深入浅出vuejs》](https://item.jd.com/10025673797903.html)、[《Vue.js设计与实现》](https://item.jd.com/13611922.html)
   - vue2、vue3原理，深入浅出
+- [《精通CSS 高级Web标准解决方案》](https://item.jd.com/12550434.html)、[CSS揭秘](https://item.jd.com/13305034.html)
+  - css经典书籍
 
 ### 产品设计、研发管理
 - [《俞军产品方法论》](https://item.jd.com/63204481632.html)
