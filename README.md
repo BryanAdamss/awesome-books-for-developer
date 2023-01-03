@@ -20,6 +20,10 @@
   - Ruby 之父，深入理解程序设计背后的故事
 - [《JavaScript设计模式与开发实践》](https://item.jd.com/13265334.html)
   - 设计模式+前端，深入浅出
+- [《大话数据结构》](https://item.jd.com/12987622.html)、[《算法图解》](https://item.jd.com/12911513.html)
+  - 算法、数据结构入门
+- [《算法(第4版)》](https://item.jd.com/11098789.html)、[《算法导论》](https://item.jd.com/11144230.html)
+  - 算法经典书籍
 
 ### 产品设计、研发管理
 - [《俞军产品方法论》](https://item.jd.com/63204481632.html)
