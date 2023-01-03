@@ -21,6 +21,8 @@
   - UML 书籍
 - [《火球-UML 大战需求分析》](https://item.jd.com/12990922.html)
   - UML+需求分析
+- [《软件方法（上）：业务建模和需求》](https://item.jd.com/12908003.html)
+  - UML业务建模
 - [《敏捷软件开发：原则、模式与实践》](https://item.jd.com/10078483.html#crumb-wrap)
   - 敏捷开发+SOLID 原则
 - [《破茧成蝶》](https://item.jd.com/12930454.html)
