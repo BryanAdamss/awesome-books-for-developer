@@ -26,10 +26,8 @@
   - 算法经典书籍
 - [《MySQL是怎样运行的 从根儿上理解MySQL》](https://item.jd.com/13009316.html)
   - MySQL入门，深入浅出
-- [《架构整洁之道》](https://item.jd.com/12447192.html)
+- [《架构整洁之道》](https://item.jd.com/12447192.html)、[《凤凰架构：构建可靠的大型分布式系统》](https://item.jd.com/12880681.html)
   - 架构方法论
-- [《凤凰架构：构建可靠的大型分布式系统》](https://item.jd.com/12880681.html)
-  - 架构实践
 - [《深入浅出vuejs》](https://item.jd.com/10025673797903.html)、[《Vue.js设计与实现》](https://item.jd.com/13611922.html)
   - vue2、vue3原理，深入浅出
 
