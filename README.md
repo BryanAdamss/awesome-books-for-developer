@@ -8,12 +8,10 @@
 ## 职业发展
 
 ### 技术书籍
-- [《大象：Thinking in UML》](https://item.jd.com/10971142.html)
-  - UML 书籍
-- [《火球-UML 大战需求分析》](https://item.jd.com/12990922.html)
-  - UML+需求分析
+- [《大象：Thinking in UML》](https://item.jd.com/10971142.html)、[《火球-UML 大战需求分析》](https://item.jd.com/12990922.html)
+  - UML使用
 - [《软件方法（上）：业务建模和需求》](https://item.jd.com/12908003.html)
-  - UML业务建模
+  - 业务建模
 - [《敏捷软件开发：原则、模式与实践》](https://item.jd.com/10078483.html#crumb-wrap)
   - 敏捷开发+SOLID 原则
 - [《松本行弘的程序世界》](https://item.jd.com/10036658376648.html)
