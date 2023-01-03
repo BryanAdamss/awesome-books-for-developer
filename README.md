@@ -55,16 +55,12 @@
 
 ## 个人成长
 
-- [《金字塔原理：思考、表达和解决问题的逻辑》](https://item.jd.com/12591738.html)
-  - 逻辑思维训练
-- [《金字塔原理：实战篇》](https://item.jd.com/12629218.html)
-  - 逻辑思维训练实战篇
+- [《金字塔原理：思考、表达和解决问题的逻辑》](https://item.jd.com/12591738.html)、[《金字塔原理：实战篇》](https://item.jd.com/12629218.html)
+  - 逻辑思维训练、实
 - [《高效能人士的七个习惯》](https://item.jd.com/12908318.html)
   - 职场提效
-- [《软技能代码之外的生存指南》](https://item.jd.com/11987446.html)
+- [《软技能代码之外的生存指南》](https://item.jd.com/11987446.html)、[《软技能 2:软件开发者职业生涯指南》](https://item.jd.com/12858102.html)
   - 代码之外应该掌握的软技能
-- [《软技能 2:软件开发者职业生涯指南》](https://item.jd.com/12858102.html)
-  - 软技能 1 的续作
 - [《少有人走的路：心智成熟的旅程 [The Road Less Traveld]》](https://item.jd.com/12992224.html#crumb-wrap)
   - 心灵鸡汤
 - [《见识》、《态度》、《格局》](https://item.jd.com/10022125511278.html)三部曲
