@@ -44,6 +44,10 @@
   - 软件工程管理与实践
 - [《怪诞行为学1 可预测的非理性》](https://item.jd.com/12284718.html)
   - 老罗推荐
+- [《聘谁：用A级别招聘法找到更合适的人》]()
+  - 循序渐进的去教你如何评估识别候选人
+- [《史记》]()、[《资治通鉴》]()、[《毛泽东点评历史人物》]()
+  - 如何识人
 
 ### 设计
 - [《破茧成蝶》](https://item.jd.com/12930454.html)
@@ -74,7 +78,8 @@
 - [《卡片笔记写作法：如何实现从阅读到写作》](https://item.jd.com/13336018.html)
   - 自下而上笔记学习法
 - [《复盘-对过去的事情做思维演练》理论+实践](https://item.m.jd.com/product/13174834.html?&utm_source=iosapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL&ad_od=share&utm_user=plusmember&gx=RnE1kGZabTaIndRn7c0mA1oRKPGjdA)
-  - 复盘方法论 
+  - 复盘方法论
+
 
 ## 家庭生活
 
