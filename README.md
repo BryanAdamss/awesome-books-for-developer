@@ -26,7 +26,7 @@
   - MySQL入门，深入浅出
 - [《数据密集型应用系统设计》](https://item.jd.com/12437624.html)
   - 数据密集型应用设计思路
-- [《架构整洁之道》](https://item.jd.com/12447192.html)、[《凤凰架构：构建可靠的大型分布式系统》](https://item.jd.com/12880681.html)
+- [《架构整洁之道》](https://item.jd.com/12447192.html)、[《凤凰架构：构建可靠的大型分布式系统》](https://item.jd.com/12880681.html)、[《聊聊架构》](https://book.douban.com/subject/27034443/)
   - 架构方法论
 - [《深入浅出vuejs》](https://item.jd.com/10025673797903.html)、[《Vue.js设计与实现》](https://item.jd.com/13611922.html)
   - vue2、vue3原理，深入浅出
