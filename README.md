@@ -8,6 +8,24 @@
 ## 职业发展
 
 ### 技术书籍
+- [《领域驱动设计：软件核心复杂性应对之道》(Domain-Driven Design)》](TODO)
+  - 作者：Eric Evans
+  - 详细讲解了如何通过领域驱动设计组织代码结构，是DDD的奠基之作
+- [《架构整洁之道》(Clean Architecture)](TODO)
+  - 作者：Robert C. Martin (Uncle Bob)
+  - 内容：介绍了如何构建可维护的软件架构，包括分层原则和依赖管理
+- [《实现领域驱动设计》(Implementing Domain-Driven Design)](TODO)
+  - 作者：Vaughn Vernon
+  - 内容：更实用的DDD实现指南，包含了具体的项目结构组织方法
+- [《微服务架构设计模式》(Microservice Patterns)](TODO)
+  - 作者：Chris Richardson
+  - 内容：介绍了微服务架构中的项目组织结构和各种模式
+- [《企业应用架构模式》(Patterns of Enterprise Application Architecture)](TODO)
+  - 作者：Martin Fowler
+  - 内容：经典的企业应用架构书籍，讲解了各种架构模式和组织结构
+- [《重构：改善既有代码的设计》(Refactoring)](TODO)
+  - 作者：Martin Fowler
+  - 内容：介绍如何重构现有代码以改善结构，包含项目组织的最佳实践
 - [《大象：Thinking in UML》](https://item.jd.com/10971142.html)、[《火球-UML 大战需求分析》](https://item.jd.com/12990922.html)
   - UML使用
 - [《软件方法（上）：业务建模和需求》](https://item.jd.com/12908003.html)
