@@ -11,7 +11,7 @@
 - [《领域驱动设计：软件核心复杂性应对之道》(Domain-Driven Design)》](TODO)
   - 作者：Eric Evans
   - 详细讲解了如何通过领域驱动设计组织代码结构，是DDD的奠基之作
-- [《架构整洁之道》(Clean Architecture)](TODO)
+- [《架构整洁之道》(Clean Architecture)](https://item.jd.com/12447192.html)
   - 作者：Robert C. Martin (Uncle Bob)
   - 内容：介绍了如何构建可维护的软件架构，包括分层原则和依赖管理
 - [《实现领域驱动设计》(Implementing Domain-Driven Design)](TODO)
@@ -44,7 +44,7 @@
   - MySQL入门，深入浅出
 - [《数据密集型应用系统设计》](https://item.jd.com/12437624.html)
   - 数据密集型应用设计思路
-- [《架构整洁之道》](https://item.jd.com/12447192.html)、[《凤凰架构：构建可靠的大型分布式系统》](https://item.jd.com/12880681.html)、[《聊聊架构》](https://book.douban.com/subject/27034443/)
+- [《凤凰架构：构建可靠的大型分布式系统》](https://item.jd.com/12880681.html)、[《聊聊架构》](https://book.douban.com/subject/27034443/)
   - 架构方法论
 - [《深入浅出vuejs》](https://item.jd.com/10025673797903.html)、[《Vue.js设计与实现》](https://item.jd.com/13611922.html)
   - vue2、vue3原理，深入浅出
